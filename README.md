@@ -7,4 +7,4 @@ Este repo existe solo para darle a la API de Jumpseller una URL publica desde la
 descargarse cada imagen: la API no acepta subir el archivo directamente. Una vez publicado
 el producto, Jumpseller re-hostea la imagen en su propio CDN.
 
-187 archivos, 32.9 MB. No editar a mano: se regenera desde el sistema.
+199 archivos, 35 MB. No editar a mano: se regenera desde el sistema.
